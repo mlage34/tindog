@@ -77,6 +77,10 @@ h2 {
   #title {
     text-align: center;
   }
+  
+    .big-heading {
+    font-size: 2rem;
+  }
 
 }
 
